@@ -47,5 +47,6 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 * [Interaction Editor](https://github.com/ViveTheModder/tenkaichi-interaction-editor);
 * [Map MDL Unpacker](https://github.com/ViveTheModder/tenkaichi-map-mdl-unpacker);
 * [Progress Chara Param Editor](https://github.com/ViveTheModder/bt3-progress-chara-param-editor);
-* [Swag Studio](https://github.com/ViveTheModder/swag-studio);
+* [Skill Shader Editor](https://github.com/ViveTheModder/bt3-skill-shader-editor);
+* [Swag Studio](https://github.com/ViveTheModder/swag-studio);|
 * [Ultimate Battle Editor](https://github.com/ViveTheModder/ultimate-battle-editor).
