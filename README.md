@@ -29,6 +29,7 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 * [LPS Generator](https://github.com/ViveTheModder/tenkaichi-lps-generator);
 * [HQ Shader Converter](https://github.com/ViveTheModder/bt-hq-shader-converter);
 * [MDL Assist](https://github.com/ViveTheModder/tenkaichi-mdl-assist);
+* [Skill List Editor](https://github.com/ViveTheModder/tenkaichi-skill-list-editor).
 * [Skill List Remover](https://github.com/ViveTheModder/tenkaichi-skill-list-remover).
 
 ## Tools that only work for Budokai Tenkaichi 3 files
