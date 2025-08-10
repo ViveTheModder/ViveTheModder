@@ -22,6 +22,7 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 ## Tools with support for all Sparking! games (mainly NEO and METEOR)
 * [ANM Swap](https://github.com/ViveTheModder/tenkaichi-anm-swap);
+* [ANM Tail Replacer](https://github.com/ViveTheModder/tenkaichi-anm-tail-replacer);
 * [Blast Bulk Editor](https://github.com/ViveTheModder/tenkaichi-blast-bulk-editor);
 * [CMA Editor](https://github.com/ViveTheModder/cma-editor);
 * [ELF CRC Editor](https://github.com/ViveTheModder/tenkaichi-elf-crc-editor);
@@ -49,5 +50,5 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 * [Map MDL Unpacker](https://github.com/ViveTheModder/tenkaichi-map-mdl-unpacker);
 * [Progress Chara Param Editor](https://github.com/ViveTheModder/bt3-progress-chara-param-editor);
 * [Skill Shader Editor](https://github.com/ViveTheModder/bt3-skill-shader-editor);
-* [Swag Studio](https://github.com/ViveTheModder/swag-studio);|
+* [Swag Studio](https://github.com/ViveTheModder/swag-studio);
 * [Ultimate Battle Editor](https://github.com/ViveTheModder/ultimate-battle-editor).
