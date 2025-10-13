@@ -18,6 +18,10 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 * [TypeRacer Word/Character Count](https://github.com/ViveTheModder/typeracer-word-or-char-count);
 * [Typing Workflow](https://github.com/ViveTheModder/typing-workflow).
 
+## Tools made for DBZ Sparking! HYPER
+* [HYPER Patcher](https://github.com/ViveTheModder/dbzs-hyper-patcher)
+* [HYPER Tool Assist](https://github.com/ViveTheModder/dbzs-hyper-tool-assist)
+
 ## Tools with support for all Sparking! games (mainly NEO and METEOR)
 * [ANM Swap](https://github.com/ViveTheModder/tenkaichi-anm-swap);
 * [ANM Tail Replacer](https://github.com/ViveTheModder/tenkaichi-anm-tail-replacer);
