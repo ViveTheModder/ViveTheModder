@@ -23,20 +23,12 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🟣 [GSC Reader](https://github.com/ViveTheModder/gsc-reader);
 
-## Miscellaneous
-🔵 [DBZBT3 Randomness](https://github.com/ViveTheModder/dbzbt3-randomness);
-
+## Research Repositories
 ⚫ [DBZBT3 Research](https://github.com/ViveTheModder/dbzbt3-research);
 
 ⚫ [DBZBT4 Research](https://github.com/ViveTheModder/bt4-research);
 
 ⚫ [DBZ The Legacy of Tenkaichi RESEARCH](https://github.com/ViveTheModder/dbz-tlot-research);
-
-🔵 [Mario Kart Wii MAX Course Time Estimator](https://github.com/ViveTheModder/MKW-MCTE);
-
-🔵 [TypeRacer Word/Character Count](https://github.com/ViveTheModder/typeracer-word-or-char-count);
-
-🔴 [Typing Workflow](https://github.com/ViveTheModder/typing-workflow).
 
 ## Tools made for DBZ Sparking! HYPER
 🟣 [HYPER Patcher](https://github.com/ViveTheModder/dbzs-hyper-patcher);
@@ -101,9 +93,20 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🟣 [Swag Studio](https://github.com/ViveTheModder/swag-studio);
 
+🔵 [Voice Speaker Appender](https://github.com/ViveTheModder/bt3-voice-speaker-appender);
+
 🔴 [Ultimate Battle Editor](https://github.com/ViveTheModder/ultimate-battle-editor).
 
 # Tools with support for other games
 🟣 [Budokai VAG Extractor](https://github.com/ViveTheModder/budokai-vag-extractor);
 
 🔵 [Roster of Souls](https://github.com/ViveTheModder/roster-of-souls).
+
+## Uninteresting Projects
+🔵 [DBZBT3 Randomness](https://github.com/ViveTheModder/dbzbt3-randomness);
+
+🔵 [Mario Kart Wii MAX Course Time Estimator](https://github.com/ViveTheModder/MKW-MCTE);
+
+🔵 [TypeRacer Word/Character Count](https://github.com/ViveTheModder/typeracer-word-or-char-count);
+
+🔴 [Typing Workflow](https://github.com/ViveTheModder/typing-workflow).
