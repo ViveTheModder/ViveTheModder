@@ -26,11 +26,11 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 ## Research Repositories
 ⚫ [DBZBT3 Research](https://github.com/ViveTheModder/dbzbt3-research);
 
-⚫ [DBZBT4 Research](https://github.com/ViveTheModder/bt4-research);
+🔵 [DBZBT4 Research](https://github.com/ViveTheModder/bt4-research);
 
 ⚫ [DBZ The Legacy of Tenkaichi RESEARCH](https://github.com/ViveTheModder/dbz-tlot-research);
 
-⚫ [SUPER SPARKING Research](https://github.com/ViveTheModder/super-sparking-research);
+🔵 [SUPER SPARKING Research](https://github.com/ViveTheModder/super-sparking-research);
 
 ## Tools made for DBZ Sparking! HYPER
 🟣 [HYPER Patcher](https://github.com/ViveTheModder/dbzs-hyper-patcher);
