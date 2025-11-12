@@ -19,9 +19,9 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔴 [Custom Backup Tool](https://github.com/ViveTheModder/custom-backup-tool);
 
-🔵 [JD Comment Remover](https://github.com/ViveTheModder/jd-comment-remover);
-
 🟣 [GSC Reader](https://github.com/ViveTheModder/gsc-reader);
+
+🔵 [JD Comment Remover](https://github.com/ViveTheModder/jd-comment-remover);
 
 ## Research Repositories
 ⚫ [DBZBT3 Research](https://github.com/ViveTheModder/dbzbt3-research);
@@ -29,6 +29,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 ⚫ [DBZBT4 Research](https://github.com/ViveTheModder/bt4-research);
 
 ⚫ [DBZ The Legacy of Tenkaichi RESEARCH](https://github.com/ViveTheModder/dbz-tlot-research);
+
+⚫ [SUPER SPARKING Research](https://github.com/ViveTheModder/super-sparking-research);
 
 ## Tools made for DBZ Sparking! HYPER
 🟣 [HYPER Patcher](https://github.com/ViveTheModder/dbzs-hyper-patcher);
