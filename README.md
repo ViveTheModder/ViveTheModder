@@ -102,6 +102,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 # Tools with support for other games
 🟣 [Budokai VAG Extractor](https://github.com/ViveTheModder/budokai-vag-extractor);
 
+🔵 [P3VA Unpacker](https://github.com/ViveTheModder/p3va-unpacker);
+
 🔵 [Roster of Souls](https://github.com/ViveTheModder/roster-of-souls).
 
 ## Uninteresting Projects
