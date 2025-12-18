@@ -89,6 +89,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🟣 [Map MDL Unpacker](https://github.com/ViveTheModder/tenkaichi-map-mdl-unpacker);
 
+🔵 [MAPD Param Display](https://github.com/ViveTheModder/mapd-param-display/tree/main);
+
 🔵 [Progress Chara Param Editor](https://github.com/ViveTheModder/bt3-progress-chara-param-editor);
 
 🟣 [Skill Shader Editor](https://github.com/ViveTheModder/bt3-skill-shader-editor);
