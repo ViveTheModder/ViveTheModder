@@ -56,6 +56,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [MDL Assist](https://github.com/ViveTheModder/tenkaichi-mdl-assist);
 
+🔵 [Scouter Detector](https://github.com/ViveTheModder/tenkaichi-scouter-detector);
+
 🟣 [Skill List Editor](https://github.com/ViveTheModder/tenkaichi-skill-list-editor);
 
 🟣 [Skill List Remover](https://github.com/ViveTheModder/tenkaichi-skill-list-remover).
