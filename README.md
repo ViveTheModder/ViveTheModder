@@ -56,7 +56,7 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [MDL Assist](https://github.com/ViveTheModder/tenkaichi-mdl-assist);
 
-🔵 [PAK TXT Extractor](https://github.com/ViveTheModder/pak-txt-extractor);
+🔵 [PAK2TXT](https://github.com/ViveTheModder/pak2txt);
 
 🔵 [Scouter Detector](https://github.com/ViveTheModder/tenkaichi-scouter-detector);
 
