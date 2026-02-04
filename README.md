@@ -46,6 +46,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [CMA Editor](https://github.com/ViveTheModder/cma-editor);
 
+🔴 [DX Assist](https://github.com/ViveTheModder/dbz-bt2-dx-assist);
+
 🟣 [ELF CRC Editor](https://github.com/ViveTheModder/tenkaichi-elf-crc-editor);
 
 🔴 [Gimmick Editor](https://github.com/ViveTheModder/tenkaichi-gimmick-editor);
