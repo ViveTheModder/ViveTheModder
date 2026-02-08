@@ -32,15 +32,15 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [SUPER SPARKING Research](https://github.com/ViveTheModder/super-sparking-research);
 
-## Tools made for DBZ Sparking! HYPER
-🟣 [HYPER Patcher](https://github.com/ViveTheModder/dbzs-hyper-patcher);
-
-🔵 [HYPER Tool Assist](https://github.com/ViveTheModder/dbzs-hyper-tool-assist).
-
-## Tools made for DBZ BT2 DX
+## Tools made for [DBZ BT2 DX](https://www.youtube.com/watch?v=95p83apY2LI)
 🔴 [Bomber D'fiX](https://github.com/ViveTheModder/bomber-dfix);
 
 🔴 [DX Assist](https://github.com/ViveTheModder/dbz-bt2-dx-assist);
+
+## Tools made for [DBZ Sparking! HYPER](https://dbzs-hyper.nekoweb.org)
+🟣 [HYPER Patcher](https://github.com/ViveTheModder/dbzs-hyper-patcher);
+
+🔵 [HYPER Tool Assist](https://github.com/ViveTheModder/dbzs-hyper-tool-assist)
 
 ## Tools with support for all Sparking! games (mainly NEO and METEOR)
 🟣 [ANM Swap](https://github.com/ViveTheModder/tenkaichi-anm-swap);
@@ -50,8 +50,6 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 🔵 [Blast Bulk Editor](https://github.com/ViveTheModder/tenkaichi-blast-bulk-editor);
 
 🔵 [CMA Editor](https://github.com/ViveTheModder/cma-editor);
-
-🔴 [DX Assist](https://github.com/ViveTheModder/dbz-bt2-dx-assist);
 
 🟣 [ELF CRC Editor](https://github.com/ViveTheModder/tenkaichi-elf-crc-editor);
 
@@ -112,7 +110,7 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔴 [Ultimate Battle Editor](https://github.com/ViveTheModder/ultimate-battle-editor).
 
-# Tools with support for other games
+## Tools with support for other games
 🟣 [Budokai VAG Extractor](https://github.com/ViveTheModder/budokai-vag-extractor);
 
 🔵 [P3VA Unpacker](https://github.com/ViveTheModder/p3va-unpacker);
