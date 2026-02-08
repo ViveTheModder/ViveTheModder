@@ -37,6 +37,11 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [HYPER Tool Assist](https://github.com/ViveTheModder/dbzs-hyper-tool-assist).
 
+## Tools made for DBZ BT2 DX
+🔴 [Bomber D'fiX](https://github.com/ViveTheModder/bomber-dfix);
+
+🔴 [DX Assist](https://github.com/ViveTheModder/dbz-bt2-dx-assist);
+
 ## Tools with support for all Sparking! games (mainly NEO and METEOR)
 🟣 [ANM Swap](https://github.com/ViveTheModder/tenkaichi-anm-swap);
 
