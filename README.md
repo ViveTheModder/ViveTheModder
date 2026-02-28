@@ -63,6 +63,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [PAK2TXT](https://github.com/ViveTheModder/pak2txt);
 
+🔴 [ParamPasta](https://github.com/ViveTheModder/parampasta);
+
 🔵 [Scouter Detector](https://github.com/ViveTheModder/tenkaichi-scouter-detector);
 
 🟣 [Skill List Editor](https://github.com/ViveTheModder/tenkaichi-skill-list-editor);
