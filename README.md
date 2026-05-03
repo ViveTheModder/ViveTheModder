@@ -102,6 +102,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [MAPD Param Display](https://github.com/ViveTheModder/mapd-param-display/tree/main);
 
+🔴 [Nekosparkin](https://github.com/ViveTheModder/nekosparkin);
+
 🔵 [Progress Chara Param Editor](https://github.com/ViveTheModder/bt3-progress-chara-param-editor);
 
 🟣 [Skill Shader Editor](https://github.com/ViveTheModder/bt3-skill-shader-editor);
