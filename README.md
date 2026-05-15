@@ -108,6 +108,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🟣 [Skill Shader Editor](https://github.com/ViveTheModder/bt3-skill-shader-editor);
 
+🟣 [Sparked Rooster](https://github.com/ViveTheModder/sparked-rooster);
+
 🟣 [Swag Studio](https://github.com/ViveTheModder/swag-studio);
 
 🔵 [Voice Speaker Appender](https://github.com/ViveTheModder/bt3-voice-speaker-appender);
