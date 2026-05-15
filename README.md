@@ -69,7 +69,9 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🟣 [Skill List Editor](https://github.com/ViveTheModder/tenkaichi-skill-list-editor);
 
-🟣 [Skill List Remover](https://github.com/ViveTheModder/tenkaichi-skill-list-remover).
+🟣 [Skill List Remover](https://github.com/ViveTheModder/tenkaichi-skill-list-remover);
+
+🔵 [Soarking Quote Validator](https://github.com/ViveTheModder/sparking-quote-validator).
 
 ## Tools made for Budokai Tenkaichi 3
 🟣 [Battle Randomizer](https://github.com/ViveTheModder/tenkaichi-battle-randomizer);
