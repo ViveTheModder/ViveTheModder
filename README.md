@@ -43,6 +43,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 🔵 [HYPER Tool Assist](https://github.com/ViveTheModder/dbzs-hyper-tool-assist)
 
 ## Tools with support for all Sparking! games (mainly NEO and METEOR)
+🟣 [ANIMOLTO](https://github.com/ViveTheModder/animolto);
+
 🟣 [ANM Swap](https://github.com/ViveTheModder/tenkaichi-anm-swap);
 
 🟣 [ANM Tail Replacer](https://github.com/ViveTheModder/tenkaichi-anm-tail-replacer);
