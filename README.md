@@ -51,6 +51,8 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🔵 [Blast Bulk Editor](https://github.com/ViveTheModder/tenkaichi-blast-bulk-editor);
 
+🔵 [CAMelone](https://github.com/ViveTheModder/camelone);
+
 🔵 [CMA Editor](https://github.com/ViveTheModder/cma-editor);
 
 🟣 [Dragon Radar](https://github.com/ViveTheModder/dragon-radar);
@@ -120,9 +122,11 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 
 🟣 [Swag Studio](https://github.com/ViveTheModder/swag-studio);
 
+🔴 [Ultimate Battle Editor](https://github.com/ViveTheModder/ultimate-battle-editor).
+
 🔵 [Voice Speaker Appender](https://github.com/ViveTheModder/bt3-voice-speaker-appender);
 
-🔴 [Ultimate Battle Editor](https://github.com/ViveTheModder/ultimate-battle-editor).
+🟣 [WildSenzu](https://github.com/ViveTheModder/wild-senzu);
 
 ## Tools with support for other games
 🟣 [Budokai VAG Extractor](https://github.com/ViveTheModder/budokai-vag-extractor);
