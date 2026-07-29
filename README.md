@@ -2,144 +2,194 @@
 Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.**
 
 ## Legend
-🔵 - **C**ommand **L**ine **I**nterface (**CLI**)
-
-🔴 - **G**raphical **U**ser **I**nterface (**GUI**)
-
-🟣 - Both Interfaces (**CLI** and **GUI**)
-
-⚫ - No Interface
-
-## General Purpose Programs
-🔴 [Accurate File Finder](https://github.com/ViveTheModder/accurate-file-finder);
-
-🟣 [AFL Editor](https://github.com/ViveTheModder/afl-editor);
-
-🔵 [Blank AFL Creator](https://github.com/ViveTheModder/blank-afl-creator);
-
-🔴 [Custom Backup Tool](https://github.com/ViveTheModder/custom-backup-tool);
-
-🟣 [GSC Reader](https://github.com/ViveTheModder/gsc-reader);
-
-🔵 [JD Comment Remover](https://github.com/ViveTheModder/jd-comment-remover);
-
-## Research Repositories
-⚫ [DBZBT3 Research](https://github.com/ViveTheModder/dbzbt3-research);
-
-🔵 [DBZBT4 Research](https://github.com/ViveTheModder/bt4-research);
-
-⚫ [DBZ The Legacy of Tenkaichi RESEARCH](https://github.com/ViveTheModder/dbz-tlot-research);
-
-🔵 [SUPER SPARKING Research](https://github.com/ViveTheModder/super-sparking-research);
-
-## Tools made for [DBZ BT2 DX](https://www.youtube.com/watch?v=95p83apY2LI)
-🔴 [Bomber D'fiX](https://github.com/ViveTheModder/bomber-dfix);
-
-🔴 [DX Assist](https://github.com/ViveTheModder/dbz-bt2-dx-assist);
-
-## Tools made for [DBZ Sparking! HYPER](https://dbzs-hyper.nekoweb.org)
-🟣 [HYPER Patcher](https://github.com/ViveTheModder/dbzs-hyper-patcher);
-
-🔵 [HYPER Tool Assist](https://github.com/ViveTheModder/dbzs-hyper-tool-assist)
-
-## Tools with support for all Sparking! games (mainly NEO and METEOR)
-🟣 [ANIMOLTO](https://github.com/ViveTheModder/animolto);
-
-🟣 [ANM Swap](https://github.com/ViveTheModder/tenkaichi-anm-swap);
-
-🟣 [ANM Tail Replacer](https://github.com/ViveTheModder/tenkaichi-anm-tail-replacer);
-
-🔵 [Blast Bulk Editor](https://github.com/ViveTheModder/tenkaichi-blast-bulk-editor);
-
-🔵 [CAMelone](https://github.com/ViveTheModder/camelone);
-
-🔵 [CMA Editor](https://github.com/ViveTheModder/cma-editor);
-
-🟣 [Dragon Radar](https://github.com/ViveTheModder/dragon-radar);
-
-🟣 [ELF CRC Editor](https://github.com/ViveTheModder/tenkaichi-elf-crc-editor);
-
-🔴 [Gimmick Editor](https://github.com/ViveTheModder/tenkaichi-gimmick-editor);
-
-🟣 [LPS Generator](https://github.com/ViveTheModder/tenkaichi-lps-generator);
-
-🔵 [HQ Shader Converter](https://github.com/ViveTheModder/bt-hq-shader-converter);
-
-🔵 [MDL Assist](https://github.com/ViveTheModder/tenkaichi-mdl-assist);
-
-🔵 [PAK2TXT](https://github.com/ViveTheModder/pak2txt);
-
-🔴 [ParamPasta](https://github.com/ViveTheModder/parampasta);
-
-🔵 [Scouter Detector](https://github.com/ViveTheModder/tenkaichi-scouter-detector);
-
-🟣 [Skill List Editor](https://github.com/ViveTheModder/tenkaichi-skill-list-editor);
-
-🟣 [Skill List Remover](https://github.com/ViveTheModder/tenkaichi-skill-list-remover);
-
-🔵 [Sparking Quote Validator](https://github.com/ViveTheModder/sparking-quote-validator).
-
-## Tools made for Budokai Tenkaichi 3
-🟣 [Battle Randomizer](https://github.com/ViveTheModder/tenkaichi-battle-randomizer);
-
-🔵 [Blast Dataminer](https://github.com/ViveTheModder/tenkaichi-blast-dataminer);
-
-🔴 [COM Param Editor](https://github.com/ViveTheModder/bt3-com-param-editor);
-
-🔵 [DP Editor](https://github.com/ViveTheModder/bt3-dp-editor);
-
-🟣 [DP Team Generator](https://github.com/ViveTheModder/bt3-dp-team-gen);
-
-🟣 [Empty Unused Voice Assets](https://github.com/ViveTheModder/bt3-empty-unused-voice-assets);
-
-🟣 [Empty Voice Duplicator](https://github.com/ViveTheModder/bt3-empty-voice-duplicator);
-
-🔵 [File Dump Organizer](https://github.com/ViveTheModder/bt3-file-dump-organizer);
-
-🔵 [GSC Bulk Editor](https://github.com/ViveTheModder/bt3-gsc-bulk-editor);
-
-🔵 [GSC BGM Detector](https://github.com/ViveTheModder/bt3-gsc-bgm-detector);
-
-🔵 [GSC Voice Detector](https://github.com/ViveTheModder/bt3-gsc-voice-detector);
-
-🔵 [Item Randomizer](https://github.com/ViveTheModder/tenkaichi-item-randomizer);
-
-🔵 [Interaction Editor](https://github.com/ViveTheModder/tenkaichi-interaction-editor);
-
-🟣 [Larping Studio](https://github.com/ViveTheModder/larping-studio);
-
-🟣 [Map MDL Unpacker](https://github.com/ViveTheModder/tenkaichi-map-mdl-unpacker);
-
-🔵 [MAPD Param Display](https://github.com/ViveTheModder/mapd-param-display/tree/main);
-
-🔴 [Nekosparkin](https://github.com/ViveTheModder/nekosparkin);
-
-🔵 [Progress Chara Param Editor](https://github.com/ViveTheModder/bt3-progress-chara-param-editor);
-
-🟣 [Skill Shader Editor](https://github.com/ViveTheModder/bt3-skill-shader-editor);
-
-🟣 [Sparked Rooster](https://github.com/ViveTheModder/sparked-rooster);
-
-🟣 [Swag Studio](https://github.com/ViveTheModder/swag-studio);
-
-🔴 [Ultimate Battle Editor](https://github.com/ViveTheModder/ultimate-battle-editor).
-
-🔵 [Voice Speaker Appender](https://github.com/ViveTheModder/bt3-voice-speaker-appender);
-
-🟣 [WildSenzu](https://github.com/ViveTheModder/wild-senzu);
-
-## Tools with support for other games
-🟣 [Budokai VAG Extractor](https://github.com/ViveTheModder/budokai-vag-extractor);
-
-🔵 [P3VA Unpacker](https://github.com/ViveTheModder/p3va-unpacker);
-
-🔵 [Roster of Souls](https://github.com/ViveTheModder/roster-of-souls).
-
-## Uninteresting Projects
-🔵 [DBZBT3 Randomness](https://github.com/ViveTheModder/dbzbt3-randomness);
-
-🔵 [Mario Kart Wii MAX Course Time Estimator](https://github.com/ViveTheModder/MKW-MCTE);
-
-🔵 [TypeRacer Word/Character Count](https://github.com/ViveTheModder/typeracer-word-or-char-count);
-
-🔴 [Typing Workflow](https://github.com/ViveTheModder/typing-workflow).
+3️⃣ Made for DBZ BT3 (DBZ Sparking! METEOR)
+
+⚡ Made for all DBZ Sparking! games (mainly NEO and METEOR)
+
+🔴 Made for [DBZ BT2 DX](https://www.youtube.com/watch?v=95p83apY2LI)
+
+🟣 Made for [DBZ Sparking! HYPER](https://dbzs-hyper.nekoweb.org)
+
+## Repository Table
+<table>
+  <tr>
+    <th>Command-Line Interface (CLI)</th>
+    <th>Graphical User Interface (GUI)</th>
+    <th>Both Interfaces (CLI & GUI)</th>
+    <th>No Interface</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/blank-afl-creator">Blank AFL Creator</a></td>
+    <td><a href="https://github.com/ViveTheModder/accurate-file-finder">Accurate File Finder</a></td>
+    <td><a href="https://github.com/ViveTheModder/afl-editor">AFL Editor</a></td>
+    <td><a href="https://github.com/ViveTheModder/dbzbt3-research">DBZBT3 Research</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/jd-comment-remover">JD Comment Remover</a></td>
+    <td><a href="https://github.com/ViveTheModder/custom-backup-tool">Custom Backup Tool</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/gsc-reader">GSC Reader</a></td>
+    <td><a href="https://github.com/ViveTheModder/dbz-tlot-research">DBZ The Legacy of Tenkaichi RESEARCH</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/bt4-research">DBZBT4 Research</a></td>
+    <td>🔴 <a href="https://github.com/ViveTheModder/bomber-dfix">Bomber D'fiX</a></td>
+    <td>🟣 <a href="https://github.com/ViveTheModder/dbzs-hyper-patcher">HYPER Patcher</a></td>
+    <td><a href="https://github.com/ViveTheModder/typing-workflow">Typing Workflow</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/super-sparking-research">SUPER SPARKING Research</a></td>
+    <td>🔴 <a href="https://github.com/ViveTheModder/dbz-bt2-dx-assist">DX Assist</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/animolto">ANIMOLTO</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>🟣 <a href="https://github.com/ViveTheModder/dbzs-hyper-tool-assist">HYPER Tool Assist</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-gimmick-editor">Gimmick Editor</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-anm-swap">ANM Swap</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-blast-bulk-editor">Blast Bulk Editor</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/parampasta">ParamPasta</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-anm-tail-replacer">ANM Tail Replacer</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/camelone">CAMelone</a></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-com-param-editor">COM Param Editor</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/dragon-radar">Dragon Radar</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/cma-editor">CMA Editor</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/nekosparkin">Nekosparkin</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-elf-crc-editor">ELF CRC Editor</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/bt-hq-shader-converter">HQ Shader Converter</a></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/ultimate-battle-editor">Ultimate Battle Editor</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-lps-generator">LPS Generator</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-mdl-assist">MDL Assist</a></td>
+    <td></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-skill-list-editor">Skill List Editor</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/pak2txt">PAK2TXT</a></td>
+    <td></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-skill-list-remover">Skill List Remover</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-scouter-detector">Scouter Detector</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/tenkaichi-battle-randomizer">Battle Randomizer</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>⚡ <a href="https://github.com/ViveTheModder/sparking-quote-validator">Sparking Quote Validator</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-dp-team-gen">DP Team Generator</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/tenkaichi-blast-dataminer">Blast Dataminer</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-empty-unused-voice-assets">Empty Unused Voice Assets</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-dp-editor">DP Editor</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-empty-voice-duplicator">Empty Voice Duplicator</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-file-dump-organizer">File Dump Organizer</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/larping-studio">Larping Studio</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-gsc-bulk-editor">GSC Bulk Editor</a></td>
+    <td></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-map-mdl-unpacker">Map MDL Unpacker</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-gsc-bgm-detector">GSC BGM Detector</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-skill-shader-editor">Skill Shader Editor</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-gsc-voice-detector">GSC Voice Detector</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/sparked-rooster">Sparked Rooster</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/tenkaichi-item-randomizer">Item Randomizer</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/swag-studio">Swag Studio</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/tenkaichi-interaction-editor">Interaction Editor</a></td>
+    <td></td>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/wild-senzu">WildSenzu</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/mapd-param-display">MAPD Param Display</a></td>
+    <td></td>
+    <td><a href="https://github.com/ViveTheModder/budokai-vag-extractor">Budokai VAG Extractor</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-progress-chara-param-editor">Progress Chara Param Editor</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/bt3-voice-speaker-appender">Voice Speaker Appender</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/p3va-unpacker">P3VA Unpacker</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/roster-of-souls">Roster of Souls</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/dbzbt3-randomness">DBZBT3 Randomness</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/MKW-MCTE">MKWii MAX Course Time Estimator</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ViveTheModder/typeracer-word-or-char-count">TypeRacer Word/Character Count</a></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
