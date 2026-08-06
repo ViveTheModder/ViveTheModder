@@ -51,7 +51,7 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
   <tr>
     <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-blast-bulk-editor">Blast Bulk Editor</a></td>
     <td>⚡ <a href="https://github.com/ViveTheModder/parampasta">ParamPasta</a></td>
-    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-anm-tail-replacer">ANM Tail Replacer</a></td>
+    <td>⚡ <a href="https://github.com/ViveTheModder/tenkaichi-anm-tail-replacer">ANM Bone Replacer</a></td>
     <td></td>
   </tr>
   <tr>
@@ -148,6 +148,12 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
     <td>3️⃣ <a href="https://github.com/ViveTheModder/mapd-param-display">MAPD Param Display</a></td>
     <td></td>
     <td><a href="https://github.com/ViveTheModder/budokai-vag-extractor">Budokai VAG Extractor</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3️⃣ <a href="https://github.com/ViveTheModder/chichicerone">Chichicerone</a></td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
