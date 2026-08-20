@@ -20,13 +20,13 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 <tr>
 	<td>3️⃣  <a href="https://github.com/ViveTheModder/bt3-dp-editor">DP Editor</a></td>
 	<td>🔴 <a href="https://github.com/ViveTheModder/dbz-bt2-dx-assist">DX Assist</a></td>
-	<td>3️⃣  <a href="https://github.com/ViveTheModder/bt3-dp-team-gen">DP Team Generator</a></td>
+	<td>3️⃣  <a href="https://github.com/ViveTheModder/cagaframe">Cagaframe</a></td>
 	<td><a href="https://github.com/ViveTheModder/dbz-tlot-research">DBZ The Legacy of Tenkaichi RESEARCH</a></td>
 </tr>
 <tr>
 	<td>3️⃣  <a href="https://github.com/ViveTheModder/bt3-file-dump-organizer">File Dump Organizer</a></td>
 	<td>3️⃣  <a href="https://github.com/ViveTheModder/bt3-com-param-editor">COM Param Editor</a></td>
-	<td>3️⃣  <a href="https://github.com/ViveTheModder/cagaframe">Cagaframe</a></td>
+	<td>3️⃣  <a href="https://github.com/ViveTheModder/bt3-dp-team-gen">DP Team Generator</a></td>
 	<td><a href="https://github.com/ViveTheModder/typing-workflow">Typing Workflow</a></td>
 </tr>
 <tr>
