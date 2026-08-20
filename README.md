@@ -140,7 +140,7 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 <tr>
 	<td><a href="https://github.com/ViveTheModder/blank-afl-creator">Blank AFL Creator</a></td>
 	<td></td>
-	<a href="https://github.com/ViveTheModder/afl-editor">AFL Editor</a></td>
+	<td><a href="https://github.com/ViveTheModder/afl-editor">AFL Editor</a></td>
 	<td></td>
 </tr>
 <tr>
