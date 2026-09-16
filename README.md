@@ -11,7 +11,14 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 ⚡ Made for all DBZ Sparking! games (mainly NEO and METEOR)
 
 ## Repository Table
-<table><tr>
+<table>
+<tr>
+	<th>Command Line Interface</th>
+	<th>User Interface</th>
+	<th>Both Interfaces</th>
+	<th>No Interface</th>
+</tr>
+<tr>
 	<td>🟣 <a href="https://github.com/ViveTheModder/dbzs-hyper-tool-assist">HYPER Tool Assist</a></td>
 	<td>🔴 <a href="https://github.com/ViveTheModder/bomber-dfix">Bomber D'fiX</a></td>
 	<td>🟣 <a href="https://github.com/ViveTheModder/dbzs-hyper-patcher">HYPER Patcher</a></td>
@@ -147,6 +154,12 @@ Blew up the battlefield so many times, they thought I was a **Sparking! METEOR.*
 	<td><a href="https://github.com/ViveTheModder/bt4-research">DBZBT4 Research</a></td>
 	<td></td>
 	<td><a href="https://github.com/ViveTheModder/budokai-vag-extractor">Budokai VAG Extractor</a></td>
+	<td></td>
+</tr>
+<tr>
+	<td><a href="https://github.com/ViveTheModder/csv2sym">CSV2SYM</a></td>
+	<td></td>
+	<td></td>
 	<td></td>
 </tr>
 <tr>
